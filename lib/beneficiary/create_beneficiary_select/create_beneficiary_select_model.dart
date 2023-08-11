@@ -1,0 +1,20 @@
+import '/beneficiary/beneficiary_crate/beneficiary_crate_widget.dart';
+import '/beneficiary/create_beneficiary/create_beneficiary_widget.dart';
+import '/flutter_flow/flutter_flow_theme.dart';
+import '/flutter_flow/flutter_flow_util.dart';
+import '/flutter_flow/flutter_flow_widgets.dart';
+import 'package:flutter/material.dart';
+import 'package:google_fonts/google_fonts.dart';
+import 'package:provider/provider.dart';
+
+class CreateBeneficiarySelectModel extends FlutterFlowModel {
+  /// Initialization and disposal methods.
+
+  void initState(BuildContext context) {}
+
+  void dispose() {}
+
+  /// Action blocks are added here.
+
+  /// Additional helper methods are added here.
+}

@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "48030854463",
+    "project_id": "atlas-23079",
+    "storage_bucket": "atlas-23079.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48030854463:android:360130360be2f6b711b78a",
+        "android_client_info": {
+          "package_name": "com.MePrest.App"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48030854463-aoamqe85b7mq33n0vsivm7mqf4lpmvmv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkp1HPtNsGSMMNfLCWcnfbb_fS9CRvwVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48030854463-aoamqe85b7mq33n0vsivm7mqf4lpmvmv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "48030854463-bqtjv6qh4nh607lt3j7pmlkik4d7a1a3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.MePrest.App"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

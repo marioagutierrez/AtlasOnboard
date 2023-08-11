@@ -1,0 +1,18 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "sofiaUsers",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "afiliate",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "created_time",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ]
+}
